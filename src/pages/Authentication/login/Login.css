@@ -1,0 +1,15 @@
+.login {
+  /* max-width: 1140px; */
+  padding: 5px;
+  height: 100dvh;
+}
+.login-form {
+  margin: 10% auto;
+  max-width: 1180px;
+}
+.text-blue {
+  color: #319fca;
+}
+.form-main-container {
+  justify-content: space-around;
+}
